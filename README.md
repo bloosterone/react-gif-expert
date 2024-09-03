@@ -1,3 +1,3 @@
 # GifExpertApp
 
-Este es mi reoisutirui dek oriyecto de GifExpertApp de React
+Este es mi repositorio del proyecto de GifExpertApp de React
